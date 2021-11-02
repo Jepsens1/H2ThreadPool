@@ -23,6 +23,12 @@ namespace H2ThreadPool
         }
         static void Process(object callback)
         {
+            for (int i = 0; i < 100000; i++)
+            {
+                for (int j = 0; j < 100000; j++)
+                {
+                }
+            }
         }
         static void ProcessWithThreadMethod()
         {
