@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H2ThreadPool", "H2ThreadPool\H2ThreadPool.csproj", "{877FF6E6-680E-4830-A920-93DB928DDB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877FF6E6-680E-4830-A920-93DB928DDB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877FF6E6-680E-4830-A920-93DB928DDB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877FF6E6-680E-4830-A920-93DB928DDB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877FF6E6-680E-4830-A920-93DB928DDB39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD6B50C-6E26-47A0-AAC2-B463370D6A61}
+	EndGlobalSection
+EndGlobal
